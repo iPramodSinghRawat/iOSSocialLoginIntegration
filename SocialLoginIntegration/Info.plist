@@ -25,18 +25,18 @@
 			<string></string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>com.googleusercontent.apps.826855318368-kgfr03ilvk9ejk736j44snmb7q3q4kjg</string>
+				<string>PUT_YOUR_GOOGLE_REVERSE_CLIENT_ID</string>
 			</array>
 		</dict>
 		<dict>
 			<key>CFBundleURLSchemes</key>
 		  <array>
-		    <string>fb194597037812383</string>
+		    <string>PUT_YOUR_FacebookAppID</string>
 		  </array>
 		</dict>
 	</array>
 	<key>FacebookAppID</key>
-	<string>194597037812383</string>
+	<string>PUT_YOUR_FacebookAppID</string>
 	<key>FacebookDisplayName</key>
 	<string>AlphaSocialLoginIntegration</string>
 	<key>LSApplicationQueriesSchemes</key>
